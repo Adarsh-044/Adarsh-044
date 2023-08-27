@@ -41,6 +41,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Adarsh-044/Adarsh-044/output/snake.svg" alt="Snake animation" />
 
 ###
