@@ -1,13 +1,24 @@
-<h2 align="left">Hi 👋! My name is Adarsh Keshari <br>Enthusiastic Full Stack Developer with 7 months of hands-on experience in the tech industry. . I excel in the Full stack development. I am eager to take on new opportunities for professional development and make a positive impact in the tech industry.</h2>
+### <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,Nice to meet you!</h1>
+I'm Adarsh Keshari, an enthusiastic learner exploring new fields and trying to be the best in my interested fields
 
-###
+---
+## About Myself
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-044&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Adarsh-044&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+- 👨‍🎓 Member of Technical staff at Think and Learn Private Limited (Byjus). 
+- 🌱 Always ready to take new responsibilites 
+- 📫 You can reach me at: adarshxy123@gmail.com
+- 🤝 Always Looking forward to collaborate
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love playing chess
+
+<div display= "flex" flex-direction = "row">
+  <h3 align="left">Connect with me:</h3>
+  <p align="">
+  <a href="https://www.linkedin.com/in/akeshari44/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adarsh Keshari" height="50" width="50" />
+  </p>
 </div>
-
-###
+    
+---
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
