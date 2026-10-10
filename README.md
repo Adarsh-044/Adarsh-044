@@ -4,7 +4,7 @@ I'm Adarsh Keshari, an enthusiastic learner exploring new fields and trying to b
 ---
 ## About Myself
 
-- 👨‍🎓 Member of Technical staff at Think and Learn Private Limited (Byjus). 
+- 👨‍🎓 Member of Technical staff at Nielsen. 
 - 🌱 Always ready to take new responsibilites 
 - 📫 You can reach me at: adarshxy123@gmail.com
 - 🤝 Always Looking forward to collaborate
